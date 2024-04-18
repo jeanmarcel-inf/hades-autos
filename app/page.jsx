@@ -7,8 +7,11 @@ import toyota from "@/public/images/Toyota.png";
 import StatsItem from "@/components/StatsItem";
 import contactImage from "@/public/images/contact-image.png";
 import Hero from "@/components/Hero";
+import connectDb from "@/config/database";
 
-export default function Home() {
+export default async function Home() {
+	await connectDb();
+
 	return (
 		<main>
 			<Hero />

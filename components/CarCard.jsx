@@ -1,4 +1,3 @@
-"use client";
 import { Card, CardHeader, CardBody, Divider, Button } from "@nextui-org/react";
 import cardImage from "@/public/images/contact-image.png";
 import Image from "next/image";
@@ -55,7 +54,7 @@ const CarCard = ({ car }) => {
 				</div>
 				<Divider className="mt-2 mb-4" />
 				<Button
-					href={`/cars/${car.id}`}
+					href={`/cars/${car._id}`}
 					as={Link}
 					color="danger"
 					variant="solid"
