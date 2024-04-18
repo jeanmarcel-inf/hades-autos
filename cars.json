@@ -1,0 +1,251 @@
+[
+	{
+		"brand": {
+			"name": "Volkswagen",
+			"logoImage": "path"
+		},
+		"model": {
+			"name": "Jetta",
+			"bodytype": "Sedan",
+			"transmission": "Automático",
+			"date_model": "2023"
+		},
+		"version": "2.0 TSI HIGHLINE",
+		"fuel": "Gasolina",
+		"doors": 4,
+		"description": "Fast car, beautiful car, awesome car!",
+		"mileage": 20000,
+		"color": "Branco",
+		"location": {
+			"city": "Cuiabá",
+			"state": "MT"
+		},
+		"seller_info": {
+			"name": "John Doe",
+			"email": "john@gmail.com",
+			"phone": "617-555-5555"
+		},
+		"price": {
+			"value": 114990,
+			"isNegotiable": true
+		},
+		"items": [
+			"Airbag",
+			"Controle de tração",
+			"Rodas de liga leve",
+			"Vidros elétricos",
+			"Computador de bordo",
+			"Freio ABS"
+		],
+		"images": ["a1.jpg", "a2.jpg", "a3.jpg"],
+		"owner": "1"
+	},
+	{
+		"brand": {
+			"name": "Audi",
+			"logoImage": "path"
+		},
+		"model": {
+			"name": "A5",
+			"bodytype": "Sedan",
+			"transmission": "Automático",
+			"date_model": "2022"
+		},
+		"version": "2.0 TFSI",
+		"fuel": "Gasolina",
+		"doors": 4,
+		"description": "Fast car, beautiful car, awesome car!",
+		"mileage": 19000,
+		"color": "Preto",
+		"location": {
+			"city": "Sorocaba",
+			"state": "SP"
+		},
+		"seller_info": {
+			"name": "Cabral Multimarcas",
+			"email": "cabralmultimarcas@gmail.com",
+			"phone": "(15) 3042-0459"
+		},
+		"price": {
+			"value": 289900,
+			"isNegotiable": true
+		},
+		"items": [
+			"Airbag",
+			"Computador de bordo",
+			"Encosto de cabeça traseiro",
+			"Rádio",
+			"Teto solar",
+			"Sensor de estacionamento",
+			"Direção hidráulica",
+			"Freio ABS"
+		],
+		"images": ["b1.jpg", "b2.jpg", "b3.jpg"],
+		"owner": "2"
+	},
+	{
+		"brand": {
+			"name": "BMW",
+			"logoImage": "path"
+		},
+		"model": {
+			"name": "M3",
+			"bodytype": "Sedan",
+			"transmission": "Semi-Automático",
+			"date_model": "2018"
+		},
+		"version": "3.0 I6",
+		"fuel": "Gasolina",
+		"doors": 4,
+		"description": "Fast car, beautiful car, awesome car!",
+		"mileage": 26107,
+		"color": "Azul",
+		"location": {
+			"city": "São Paulo",
+			"state": "SP"
+		},
+		"seller_info": {
+			"name": "Grand Brasil Bmw",
+			"email": "grandbmwbrasil@gmail.com",
+			"phone": "(11) 4420-6271"
+		},
+		"price": {
+			"value": 439950,
+			"isNegotiable": false
+		},
+		"items": [
+			"Airbag",
+			"Controle de tração",
+			"Rodas de liga leve",
+			"Vidros elétricos",
+			"Computador de bordo",
+			"Bancos em couro",
+			"Freio ABS"
+		],
+		"images": ["c1.jpg", "c2.jpg", "c3.jpg"],
+		"owner": "3"
+	},
+	{
+		"brand": {
+			"name": "Hyundai",
+			"logoImage": "path"
+		},
+		"model": {
+			"name": "Creta",
+			"bodytype": "SUV",
+			"transmission": "Automático",
+			"date_model": "2024"
+		},
+		"version": "1.6 16V FLEX ACTION",
+		"fuel": "Gasolina e álcool",
+		"doors": 4,
+		"description": "Fast car, beautiful car, awesome car!",
+		"mileage": 0,
+		"color": "Branco",
+		"location": {
+			"city": "Brasília",
+			"state": "DF"
+		},
+		"seller_info": {
+			"name": "Smaff Hyundai Sia",
+			"email": "smaffhyundaisia@gmail.com",
+			"phone": "(61) 4042-6468"
+		},
+		"price": {
+			"value": 118990,
+			"isNegotiable": false
+		},
+		"items": [
+			"Airbag",
+			"Controle de tração",
+			"Rodas de liga leve",
+			"Vidros elétricos",
+			"Computador de bordo",
+			"Freio ABS"
+		],
+		"images": ["d1.jpg", "d2.jpg", "d3.jpg"],
+		"owner": "4"
+	},
+	{
+		"brand": {
+			"name": "Volkswagen",
+			"logoImage": "path"
+		},
+		"model": {
+			"name": "Jetta",
+			"bodytype": "Sedan",
+			"transmission": "Automático",
+			"date_model": "2023"
+		},
+		"version": "2.0 TSI HIGHLINE",
+		"fuel": "Gasolina",
+		"doors": 4,
+		"description": "Fast car, beautiful car, awesome car!",
+		"mileage": 20000,
+		"color": "Branco",
+		"location": {
+			"city": "Cuiabá",
+			"state": "MT"
+		},
+		"seller_info": {
+			"name": "John Doe",
+			"email": "john@gmail.com",
+			"phone": "617-555-5555"
+		},
+		"price": {
+			"value": 114990,
+			"isNegotiable": true
+		},
+		"items": [
+			"Airbag",
+			"Controle de tração",
+			"Rodas de liga leve",
+			"Vidros elétricos",
+			"Computador de bordo",
+			"Freio ABS"
+		],
+		"images": ["a1.jpg", "a2.jpg", "a3.jpg"],
+		"owner": "1"
+	},
+	{
+		"brand": {
+			"name": "Mercedes-Benz",
+			"logoImage": "path"
+		},
+		"model": {
+			"name": "C 300",
+			"bodytype": "Sedan",
+			"transmission": "Automático",
+			"date_model": "2023"
+		},
+		"version": "2.0 EQ BOOST HÍBRIDO AMG LINE 9G-TRONIC",
+		"fuel": "Gasolina e elétrico",
+		"doors": 4,
+		"description": "Fast car, beautiful car, awesome car!",
+		"mileage": 19500,
+		"color": "Preto",
+		"location": {
+			"city": "Santos",
+			"state": "SP"
+		},
+		"seller_info": {
+			"name": "Colorado Concept",
+			"email": "coloradoconcept@gmail.com",
+			"phone": "(13) 4042-1399"
+		},
+		"price": {
+			"value": 339990,
+			"isNegotiable": true
+		},
+		"items": [
+			"Airbag",
+			"Controle de tração",
+			"Rodas de liga leve",
+			"Vidros elétricos",
+			"Computador de bordo",
+			"Freio ABS"
+		],
+		"images": ["e1.jpg", "e2.jpg", "e3.jpg"],
+		"owner": "5"
+	}
+]

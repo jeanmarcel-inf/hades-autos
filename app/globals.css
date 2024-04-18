@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.playfair-display {
+	font-family: var(--playfair_display_font);
+}
+
+.padding-container {
+	@apply sm:p-10 py-10 mx-5 md:mx-20;
+}
